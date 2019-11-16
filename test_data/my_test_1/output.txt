@@ -1,0 +1,79 @@
+Student Id: 1, name: Alice
+Total Average:	74.61
+
+	Course: Art, Teacher: Mr. A
+	Final Grade:	72.70
+
+	Course: Biology, Teacher: Mrs. B
+	Final Grade:	68.05
+
+	Course: English, Teacher: Mr. C
+	Final Grade:	81.98
+
+	Course: History, Teacher: Ms. D
+	Final Grade:	75.72
+
+
+
+Student Id: 2, name: Bob
+Total Average:	79.23
+
+	Course: Biology, Teacher: Mrs. B
+	Final Grade:	69.83
+
+	Course: English, Teacher: Mr. C
+	Final Grade:	81.05
+
+	Course: History, Teacher: Ms. D
+	Final Grade:	81.42
+
+	Course: Math, Teacher: Mr. E
+	Final Grade:	84.61
+
+
+
+Student Id: 3, name: Carol
+Total Average:	74.75
+
+	Course: Biology, Teacher: Mrs. B
+	Final Grade:	69.66
+
+	Course: English, Teacher: Mr. C
+	Final Grade:	80.32
+
+	Course: History, Teacher: Ms. D
+	Final Grade:	79.49
+
+	Course: Math, Teacher: Mr. E
+	Final Grade:	72.42
+
+	Course: Science, Teacher: Mrs. F
+	Final Grade:	71.86
+
+
+
+Student Id: 4, name: David
+Total Average:	70.03
+
+	Course: Art, Teacher: Mr. A
+	Final Grade:	65.20
+
+	Course: Biology, Teacher: Mrs. B
+	Final Grade:	73.20
+
+	Course: Math, Teacher: Mr. E
+	Final Grade:	68.74
+
+	Course: Science, Teacher: Mrs. F
+	Final Grade:	72.99
+
+
+
+Student Id: 5, name: Emily
+Total Average:	80.00
+
+	Course: Art, Teacher: Mr. A
+	Final Grade:	80.00
+
+
+
